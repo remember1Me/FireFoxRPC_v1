@@ -1,0 +1,17 @@
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.AssemblyInfoInputs.cache
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.AssemblyInfo.cs
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.csproj.CoreCompileInputs.cache
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.csproj.AssemblyReference.cache
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\bin\Debug\net8.0\DiscordFireFoxRPC.exe
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\bin\Debug\net8.0\DiscordFireFoxRPC.deps.json
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\bin\Debug\net8.0\DiscordFireFoxRPC.runtimeconfig.json
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\bin\Debug\net8.0\DiscordFireFoxRPC.dll
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\bin\Debug\net8.0\DiscordFireFoxRPC.pdb
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.dll
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\refint\DiscordFireFoxRPC.dll
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.pdb
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.genruntimeconfig.cache
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\ref\DiscordFireFoxRPC.dll
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.csproj.Fody.CopyLocal.cache
+C:\Users\SIMo\source\repos\DiscordFireFoxRPC\DiscordFireFoxRPC\obj\Debug\net8.0\DiscordFireFoxRPC.csproj.Fody.RuntimeCopyLocal.cache

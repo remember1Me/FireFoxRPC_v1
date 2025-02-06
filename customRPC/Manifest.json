@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Discord RPC for Firefox",
+  "version": "1.0",
+  "description": "Sends current tab info to a local app for Discord Rich Presence.",
+  "permissions": ["tabs", "activeTab"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
